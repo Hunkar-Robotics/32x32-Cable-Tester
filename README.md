@@ -79,7 +79,3 @@ A low-cost, Arduino-based cable tester that scans **32 lines** using **two 16-ch
 | 5V/GND  | Power         | Breadboard rails → all ICs                    | Decoupling on rails|
 
 ---
-
-
-  delay(600);
-}
